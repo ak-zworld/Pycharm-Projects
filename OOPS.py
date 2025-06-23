@@ -2,7 +2,7 @@
 #     #GENERAL STATES
 #     b_name='icici'
 #     ifsc_code='ici012345'
-#     address='vadapalani'
+#     address='Aminjikarai'
 #     def __init__(self,cname,phno,ac_no):
 #         # SPECIFIC STATES
 #         self.customer_name=cname
